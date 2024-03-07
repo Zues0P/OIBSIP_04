@@ -1,6 +1,5 @@
-# OIBSIP_04Certainly! Here's a write-up for your email classifier project:
+# OIBSIP_04
 
----
 
 # Email Spam Classifier
 
@@ -39,6 +38,4 @@ I would like to thank Oasis Infobyte for providing me with the opportunity to wo
 
 The Email Spam Classifier project has been a challenging yet rewarding experience. It has not only improved my skills in machine learning and natural language processing but has also given me valuable insights into the world of email filtering and classification. I look forward to applying these skills to future projects and contributing to the field of data science.
 
----
 
-Feel free to customize this write-up to fit your project's specifics and your personal experiences during the internship!
